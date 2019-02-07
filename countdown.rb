@@ -1,6 +1,6 @@
  
 def countdown(n)
-while n > 1 
+while n >= 1 
 puts "#{n} SECOND(S)!" #write your code here
 n -= 1
 return "HAPPY NEW YEAR!"
